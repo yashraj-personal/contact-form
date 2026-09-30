@@ -3,7 +3,7 @@
    ⚠️ PLACEHOLDER: Paste your own Spreadsheet ID here.
    (It's the long text in the Sheet URL between /d/ and /edit)
    ========================================================= */
-const SPREADSHEET_ID = "YOUR_SPREADSHEET_ID";
+const SPREADSHEET_ID = "https://script.google.com/macros/s/AKfycbxAN0IEIqhAliJQV5zxH0KJNYb1e8nQ-Rxw5yvi-ve1G7DKLmxKSkNIP-QCtSwpK5Qu/exec";
 const SHEET_NAME = "Contact Submissions";
 
 /* =========================================================
